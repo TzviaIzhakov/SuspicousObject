@@ -1,0 +1,5 @@
+opencv-python
+ultralytics  # YOLOv8
+numpy
+torch
+matplotlib
