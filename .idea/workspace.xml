@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e74cc5df-77e3-4b95-a236-354dfb77bde2" name="Changes" comment="setup/first milestones to the project">
-      <change afterPath="$PROJECT_DIR$/images/knife.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/knifeTwo.jpg" afterDir="false" />
+    <list default="true" id="e74cc5df-77e3-4b95-a236-354dfb77bde2" name="Changes" comment="setup/ first example of detecting images using YOLO">
+      <change afterPath="$PROJECT_DIR$/images/bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcamVideoDetector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pictureDetector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TzviaIzhakov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TzviaIzhakov/SuspicousObject.git&quot;,
+    &quot;accountId&quot;: &quot;5a831224-7cee-417b-ae43-9abc05beee03&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,6 +53,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.app.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.webcamVideoDetector.executor": "Run",
     "Python.yolo_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,11 +94,20 @@
       <option name="project" value="LOCAL" />
       <updated>1743080820336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setup/ first example of detecting images using YOLO">
+      <option name="closed" value="true" />
+      <created>1743366701328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743366701328</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup/first milestones to the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup/first milestones to the project" />
+    <MESSAGE value="setup/ first example of detecting images using YOLO" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup/ first example of detecting images using YOLO" />
   </component>
 </project>
